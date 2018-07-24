@@ -1,0 +1,5 @@
+this is just a text file
+we will count the number of words in it
+let us count the number of words in it
+there are some words
+number of words does not matter
